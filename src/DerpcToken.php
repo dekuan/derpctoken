@@ -1,11 +1,11 @@
 <?php
-
+namespace Dekuan\DerpcToken;
 
 class DerpcToken
 {
     private $aServerList = [];
 
-    protected function __construct()
+    public function __construct()
     {
         $this->aServerList = require_once "./server.php";
     }

@@ -1,18 +1,19 @@
 {
-  "name": "dekuan/derpctoken",
-  "type": "libra",
-  "license": "proprietary",
-  "authors": [
-    {
-      "name": "Jack Li",
-      "email": "ljt_2010@yeah.net"
+    "name": "dekuan/derpctoken",
+    "description": "derpctoken",
+    "type": "libra",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jack Li",
+            "email": "ljt_2010@yeah.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Dekuan\\DerpcToken\\": "src/"
+        }
     }
-  ],
-  "minimum-stability": "dev",
-  "require": {},
-  "autoload": {
-    "psr-4": {
-      "Derpctoken\\": "src/"
-    }
-  }
 }
