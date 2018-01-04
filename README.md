@@ -1,2 +1,0 @@
-# derpctoken
-RPC Token
