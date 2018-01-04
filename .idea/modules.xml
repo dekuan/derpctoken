@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/derpctoken1.iml" filepath="$PROJECT_DIR$/.idea/derpctoken1.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/derpctoken.iml" filepath="$PROJECT_DIR$/.idea/derpctoken.iml" />
+>>>>>>> 68bd66c6dada54ae4d16d198bc1766826d7b5b4e
     </modules>
   </component>
 </project>

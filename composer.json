@@ -1,0 +1,29 @@
+{
+    "name"		: "dekuan/derpctoken",
+    "description"	: "desc",
+    "type"		: "library",
+    "license"	: "proprietary",
+    "authors"	:
+    [
+        {
+            "name": "Jack Li",
+            "email": "ljt_2010@yeah.net"
+        }
+    ],
+    "require":
+    {
+        "php" : ">=5.3.0"
+    },
+    "require-dev":
+    {
+
+    },
+    "autoload" :
+    {
+        "psr-4" : { "dekuan\\" : "src" }
+    },
+    "autoload-dev" :
+    {
+        "psr-4" : { "dekuan\\" : "src" }
+    }
+}
